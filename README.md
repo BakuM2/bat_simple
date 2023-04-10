@@ -21,7 +21,7 @@ Open `Variables.py` file and set following data:
 `pvplantmulti.py` calculates pv array, based on inputed `Power_range`. Range is in Watts, max tested was 1MW
 
 ## kW to Wh
-`kw to kwh.py` converts kW customer profile to Wh 
+`kw_to_kwh.py` converts kW customer profile to Wh 
 
 > output is in Watt-hours!!!!
 >
